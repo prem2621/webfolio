@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/webfolio/static/css/main.58462fbc.css",
+    "main.js": "/webfolio/static/js/main.57d43d5d.js",
+    "static/media/fashion.png": "/webfolio/static/media/fashion.9e9ae9e4678b99635c5a.png",
+    "static/media/u-said-it-v13-1167.mp3": "/webfolio/static/media/u-said-it-v13-1167.becd66496be9c81ddf9d.mp3",
+    "static/media/coffee.png": "/webfolio/static/media/coffee.aec8ad966a1a3ffa49b7.png",
+    "static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg": "/webfolio/static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.8ca90014fb6ce5980110.jpg",
+    "static/media/weather.png": "/webfolio/static/media/weather.2c8ac1b10dd22dffd438.png",
+    "static/media/bmi.png": "/webfolio/static/media/bmi.918c2aca332048e386df.png",
+    "static/media/drop-signup.png": "/webfolio/static/media/drop-signup.7cf7101390b30eb0cdca.png",
+    "static/media/old-portfolio.jpeg": "/webfolio/static/media/old-portfolio.d2ad631876ede75ebeae.jpeg",
+    "static/media/spaceman.png": "/webfolio/static/media/spaceman.5ec7fcfa9a803ead726c.png",
+    "static/media/groce.jpg": "/webfolio/static/media/groce.0a9ac0840cc85ff5ceb4.jpg",
+    "static/media/profile-img.png": "/webfolio/static/media/profile-img.5179e446ac1a570ce69b.png",
+    "static/media/food.jpg": "/webfolio/static/media/food.7032e9183c99c968eb42.jpg",
+    "index.html": "/webfolio/index.html",
+    "main.58462fbc.css.map": "/webfolio/static/css/main.58462fbc.css.map",
+    "main.57d43d5d.js.map": "/webfolio/static/js/main.57d43d5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58462fbc.css",
+    "static/js/main.57d43d5d.js"
+  ]
+}
