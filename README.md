@@ -30,20 +30,21 @@ This is my personal portfolio built entirely with **React.js**, showcasing my sk
 
 Here are some snapshots from the site:
 
-### 💼 About & Skills Section
-![About and Skills](./screenshots/about-skills.jpeg)
-
-### 🛰️ MERN Stack Identity
-![MERN Stack](./screenshots/mern-identity.jpeg)
-
-### 🛠️ DSA Work Gallery
-![Work Cards](./screenshots/work-cards.jpeg)
-
-### 📚 Blog Section
-![Blog](./screenshots/blog-section.jpeg)
 
 ### ☯️ Home Zen Mode
-![Home](./screenshots/home-page.jpeg)
+![Home](./screenshots/home.jpeg)
+
+### 💼 About Section
+![About and Skills](./screenshots/about.jpeg)
+
+### 🛰️ MERN Stack Identity
+![MERN Stack](./screenshots/skill.jpeg)
+
+### 🛠️ DSA Work Gallery
+![Work Cards](./screenshots/work.jpeg)
+
+### 📚 Blog Section
+![Blog](./screenshots/blog.jpeg)
 
 
 If you're a recruiter, collaborator, or curious dev — feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/prem2621/) or drop a mail.
