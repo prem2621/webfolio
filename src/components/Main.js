@@ -6,8 +6,7 @@ import LogoComponent from '../subComponents/LogoComponent'
 import PowerButton from '../subComponents/PowerButton'
 import SocialIcons from '../subComponents/SocialIcons'
 import { YinYang } from './AllSvgs'
-import Intro from './Intro'
-;
+import Intro from './Intro';
 
 
 const MainContainer = styled.div`
@@ -145,7 +144,7 @@ const Main = () => {
                 <span>click here</span>
             </Center>
 
-            <Contact target="_blank" href="mailto:codebucks27@gmail.com">
+            <Contact target="_blank" href="mailto:premkumar.webdev@gmail.com"  rel="noopener noreferrer">
                 <motion.h2
                 initial={{
                     y:-200,
@@ -156,9 +155,7 @@ const Main = () => {
                     transition: { type:'spring', duration: 1.5, delay:1}
                 }}
                 whileHover={{scale: 1.1}}
-                whileTap={{scale: 0.9}}
-                
-                >
+                whileTap={{scale: 0.9}}>
                     Say hi..
                 </motion.h2>
             </Contact>
@@ -208,9 +205,10 @@ const Main = () => {
                  whileHover={{scale: 1.1}}
                 whileTap={{scale: 0.9}}
                 >
-                    About.
+                    About
                 </motion.h2>
             </ABOUT>
+            
             <SKILLS to="/skills">
                 <motion.h2
                 initial={{
@@ -221,10 +219,8 @@ const Main = () => {
                     y:0,
                     transition: { type:'spring', duration: 1.5, delay:1}
                 }}
-                 whileHover={{scale: 1.1}}
-                whileTap={{scale: 0.9}}
-                >
-                    My Skills.
+                 whileHover={{scale: 1.1}} whileTap={{scale: 0.9}}>
+                    My Skills
                 </motion.h2>
             </SKILLS>
 

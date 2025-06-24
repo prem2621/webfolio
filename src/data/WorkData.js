@@ -1,63 +1,58 @@
 // work data
 
 export const Work = [
-    {
-        id:1,
-        name:"Agency Landing Page",
-        description:"It is build on top of the React JS, with styledComponents and GSAP for smooth scrolling animations.",
-        tags:["react","gsap","styledComponents"],
-        
-        demo:"https://agency-website-eta.vercel.app/",
-        github:"https://github.com/codebucks27/Agency-website"
-    },
-    {
-        id:2,
-        name:"Job listing website",
-        description:"A Job listing website build in ReactJS. With searching and filtering functionalities.",
-        tags:["react","sass"],
-        
-        demo:"http://react-job-listing-website.codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/react-job-listing-website"
-        
-    },
-    {
-        id:3,
-        name:"Dev.to Clone",
-        description:"A clone of Dev.to build using ReactJS. With realtime fetching of articles from dev.to using API.",
-        tags:["react","api","sass"],
-        
-        demo:"http://devto-clone-codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/devto-clone"
-    },
-    {
-        id:4,
-        name:"Sidebar Menu",
-        description:"A cool looking sidebar menu build using ReactJS and styledComponents.It has really smooth animations.",
-        tags:["react","styledComponents","react-router"],
-        
-        demo:"https://react-sidebar.vercel.app/",
-        github:"https://github.com/codebucks27/react-sidebar"
-       
-    },{
-        id:5,
-        name:"Todo App(React + Redux)",
-        description:"A todo app build using Redux-toolkit and framer-motion for smooth animations.",
-        tags:["react","redux","framer-motion"],
-        
-        demo:"http://react-redux-todo-app-git-main-codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/React-Redux-Todo-App"
-        
-    },
-    {
-        id:6,
-        name:"Responsive Navigation Menu",
-        description:"A reponsive navbar menu component in ReactJS with react-router functionalities. Built from scratch.",
-        tags:["react","react-router","css"],
-        
-        demo:"http://react-responsive-navbar-codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/React-responsive-navbar"
-        
-    },
-    
-  
-] 
+  {
+    id: 1,
+    name: "DSA – Arrays Practice",
+    description:
+      "Solved fundamental and advanced array problems using JavaScript based on Take You Forward playlist. Focused on brute to optimal approach transition.",
+    tags: ["DSA", "array", "takeYouForward"],
+    demo: "https://www.youtube.com/results?search_query=takeyouforward++array+playlist",
+    github: "https://github.com/prem2621/DSA-Array",
+  },
+  {
+    id: 2,
+    name: "DSA – Linked List Practice",
+    description:
+      "Practiced essential singly and doubly linked list problems in JavaScript by following Take You Forward DSA roadmap. Focused on logic building and pointer techniques. ",
+    tags: ["DSA", "linkedlist", "takeYouForward"],
+    demo: "https://www.youtube.com/results?search_query=take+you+forward+linked+list",
+    github: "https://github.com/prem2621/linked-list",
+  },
+  {
+    id: 3,
+    name: "DSA – Recursion Practice",
+    description:
+      "Solved classic recursion and backtracking problems using JavaScript. Focused on base case clarity, stack behavior, and dry-run analysis from Take You Forward.",
+    tags: ["DSA", "recursion", "takeYouForward"],
+    demo: "https://www.youtube.com/results?search_query=take+you+forward+recursion",
+    github: "https://github.com/prem2621/recursion",
+  },
+  {
+    id: 4,
+    name: "DSA – Pattern Printing",
+    description:
+      "Practiced beginner to advanced pattern problems using loops and conditionals. Focused on visual logic building and dry-run clarity from Take You Forward.",
+    tags: ["DSA", "patterns", "takeYouForward"],
+    demo: "https://www.youtube.com/results?search_query=pattern+question+answer",
+    github: "https://github.com/prem2621/DSA-Pattern",
+  },
+  {
+    id: 5,
+    name: "DSA – Array Methods",
+    description:
+      "Practiced key JavaScript array methods like map, filter, reduce, and forEach with real-world examples and problem-solving use cases.",
+    tags: ["DSA", "array-methods", "javascript"],
+    demo: "https://www.youtube.com/results?search_query=javascript+array+methods",
+    github: "https://github.com/prem2621/array-methods",
+  },
+  {
+    id: 6,
+    name: "DSA – Sorting Algorithms",
+    description:
+      "Implemented key sorting techniques like Bubble, Selection, Insertion, Merge, and Quick Sort in JavaScript with dry-run comments and optimized versions.",
+    tags: ["DSA", "sorting", "javascript"],
+    demo: "https://www.youtube.com/results?search_query=take+you+forward+sorting",
+    github: "https://github.com/prem2621/sort-Algo",
+  },
+]; 

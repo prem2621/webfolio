@@ -93,10 +93,16 @@ const MySkillsPage = () => {
 <ParticleComponent theme='light' />
             <Main>
 <Title>
-    <Design width={40} height={40} /> Designer
+    <Design width={40} height={40} /> Frontend Developer
 </Title>
 <Description>
-I love to create design which speaks, Keep it clean, minimal and simple.
+ I focus on clean design, performance, and user-centric development.
+</Description>
+<Description>
+<strong>Skills</strong>
+<p>
+Html, Css, JavaScript, React, Bootstrap.
+</p>
 </Description>
 <Description>
 <strong>I like to Design</strong>
@@ -105,38 +111,29 @@ I love to create design which speaks, Keep it clean, minimal and simple.
         Web Design
     </li>
     <li>
-        Mobile Apps
+        Mobile Design
     </li>
-</ul>
-</Description>
-<Description>
-<strong>Tools</strong>
-<ul>
-    <li>
-       Figma
-    </li>
-    
 </ul>
 </Description>
 
             </Main>
             <Main>
 <Title>
-    <Develope width={40} height={40} /> Frontend Developer
+    <Develope width={40} height={40} /> Backend Developer
 </Title>
 <Description>
-I value business or brand for which i'm creating, thus i enjoy bringing new ideas to life.
+I love building APIs, databases, and server logic that bring ideas to life.
 </Description>
 <Description>
 <strong>Skills</strong>
 <p>
-Html, Css, Js, React, Redux, Sass, Bootstrap, Tailwind, Firebase etc.
+Node.js, Express.js, MongoDB, REST API, Mongoose, and  SQL.
 </p>
 </Description>
 <Description>
 <strong>Tools</strong>
 <p>
-VScode, Github, Codepen etc.
+Postman, MongoDB Compass, Git, GitHub, and VS Code.
 </p>
 </Description>
 
