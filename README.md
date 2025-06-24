@@ -1,9 +1,9 @@
-# 🧑‍🚀 Prem’s Webfolio — A Developer Portfolio Beyond the Resume
+# Prem’s Webfolio — A Developer Portfolio Beyond the Resume
 
 Hey there! I'm **Prem Kumar**, a self-taught developer who believes code is more than logic — it's creative expression. 🎨💡  
 This is my personal portfolio built entirely with **React.js**, showcasing my skills, projects, and developer journey in a visually appealing way.
 
-## 🧩 Features
+##  Features
 
 - 🎯 Responsive and mobile-friendly layout
 - 🎨 Clean UI with dark/light toggle feel
@@ -32,16 +32,16 @@ Here are some snapshots from the site:
 
 
 ### ☯️ Home Zen Mode
-![Home](public/screenshots/home.jpeg)
+![Home](public/screenshot/home.jpeg)
 
 ### 💼 About Section
-![About and Skills](./screenshots/about.jpeg)
+![About and Skills](public/screenshot/about.jpeg)
 
 ### 🛰️ MERN Stack Identity
-![MERN Stack](./screenshots/skill.jpeg)
+![MERN Stack](public/screenshot/skill.jpeg)
 
 ### 🛠️ DSA Work Gallery
-![Work Cards](./screenshots/work.jpeg)
+![Work Cards](public/screenshot/work.jpeg)
 
 ### 📚 Blog Section
 ![Blog](./screenshots/blog.jpeg)
