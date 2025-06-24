@@ -32,7 +32,7 @@ Here are some snapshots from the site:
 
 
 ### ☯️ Home Zen Mode
-![Home](./screenshots/home.jpeg)
+![Home](public/screenshots/home.jpeg)
 
 ### 💼 About Section
 ![About and Skills](./screenshots/about.jpeg)
@@ -47,7 +47,7 @@ Here are some snapshots from the site:
 ![Blog](./screenshots/blog.jpeg)
 
 
-If you're a recruiter, collaborator, or curious dev — feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/prem2621/) or drop a mail.
+If you're a recruiter, collaborator, or curious dev — feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/premkumar-frontenddeveloper/) or drop a mail.
 
 ## 🛠️ Setup Instructions (For Developers)
 
