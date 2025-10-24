@@ -32,21 +32,23 @@ Here are some snapshots from the site:
 
 
 ### ☯️ Home Zen Mode
-![Home](public/screenshot/home.jpeg)
+![Home](https://drive.google.com/uc?export=view&id=1aF0EYIsM9LuEhjKQOM4rkungR59Y34YB)
+
+### 💎 Entrance 
+![Entrance](https://drive.google.com/uc?export=view&id=12QdlG_JclqxWkgEtFaPPSn-PaXl4mdTc)
 
 ### 💼 About Section
-![About and Skills](public/screenshot/about.jpeg)
+![About](https://drive.google.com/uc?export=view&id=1PqAxgYIvnTo-spyVsoSy2huubrEPYoh6)
 
-### 🛰️ MERN Stack Identity
-![MERN Stack](public/screenshot/skill.jpeg)
+### 🛰️ MERN Stack Skill Identity
+![Skill](https://drive.google.com/uc?export=view&id=1PXGDbWD9Eo-trKANRIwHfDufZmlFVYa1)
 
 ### 🛠️ DSA Work Gallery
-![Work Cards](public/screenshot/work.jpeg)
+![Work](https://drive.google.com/uc?export=view&id=1Xdlb62oQerSNYtu5BV2VzjkveQ3rHzTT)
 
 ### 📚 Blog Section
-![Blog](./screenshots/blog.jpeg)
-
-
+![Blog](https://drive.google.com/uc?export=view&id=1qj79ipYJNSmcyDEgsiV-DrBd8URTL9PM)
+  
 If you're a recruiter, collaborator, or curious dev — feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/premkumar-frontenddeveloper/) or drop a mail.
 
 ## 🛠️ Setup Instructions (For Developers)
